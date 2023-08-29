@@ -1,0 +1,8 @@
+.root{
+    height: 80vh;
+    background: url('https://res.cloudinary.com/dqj6dkrug/image/upload/v1693345006/jrzniemnmp7xpghe0jfy.jpg');
+    object-fit: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

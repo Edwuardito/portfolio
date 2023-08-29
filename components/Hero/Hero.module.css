@@ -1,0 +1,20 @@
+.root{
+    padding-left: 2rem;
+    height:55%;
+}
+.fadeButtonBanner{
+    padding-left: 2rem;
+    position: absolute;
+    top: 50vh;
+    bottom: 20vh;
+    left: 0;
+    right: 0;
+    z-index: 99;
+    background-image: linear-gradient(180deg, transparent, rgba(130, 127, 127, 0.61),rgb(128, 127, 127));
+}
+.title{
+    font-size: 4vw;
+    background: linear-gradient(to right, #414141 0%, #000000 100%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

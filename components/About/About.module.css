@@ -1,0 +1,11 @@
+.root{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    font-size: 1.2vw;
+}
+@media (max-width: 650px){
+    .root{
+        font-size: 1vh;
+    }
+}

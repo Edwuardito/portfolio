@@ -1,0 +1,8 @@
+.root{
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    font-size: 2.5vh;
+    background: transparent;
+    padding: 2rem;
+}

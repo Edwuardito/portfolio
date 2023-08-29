@@ -1,0 +1,23 @@
+.icons{
+    font-size: 6rem;
+    color: white;
+}
+.ti{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(300px, 1fr));
+    gap: 40px;
+}
+.bg{
+    background-image: linear-gradient(180deg,rgb(128, 127, 127),rgb(46, 45, 45));
+}
+.iconLearn{
+    color: #000;
+}
+@media (max-width: 300px){
+    .icons{
+        font-size: 20vw;
+    }
+    .ti{
+        grid-template-columns: repeat(auto-fit,minmax(100%, 1fr));
+    }
+}

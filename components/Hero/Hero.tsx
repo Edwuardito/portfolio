@@ -10,8 +10,6 @@ const Hero = () => {
             <span className={`${styles.title} my-4`}>Desarrollador <br /> Frontend</span>
             <About/>
         </div>
-        <div className={styles.fadeButtonBanner}>
-        </div>
     </section>
     </>
   )

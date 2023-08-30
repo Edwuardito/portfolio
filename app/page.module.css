@@ -1,4 +1,9 @@
-.root{
+.fadeButtonBanner{
+    height: 100%;
+    z-index: 99;
+    background-image: linear-gradient(180deg, transparent, rgba(130, 127, 127, 0),rgba(130, 127, 127, 0),rgba(130, 127, 127, 0),rgba(130, 127, 127, 0),rgba(130, 127, 127, 0.726),rgb(128, 127, 127));
+}
+.image{
     height: 80vh;
     background: url('https://res.cloudinary.com/dqj6dkrug/image/upload/v1693345006/jrzniemnmp7xpghe0jfy.jpg');
     object-fit: contain;
